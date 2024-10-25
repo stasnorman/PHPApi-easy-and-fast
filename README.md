@@ -1,4 +1,8 @@
 # PHPApi - Easy and Fast
+Репозитории мастер-класса:
+- [Open-Door-Backend](https://github.com/stasnorman/Open-Door-Backend)
+- [Csharp_REST](https://github.com/stasnorman/Csharp_REST)
+- [PHPApi-easy-and-fast](https://github.com/stasnorman/PHPApi-easy-and-fast)
 
 ## Описание
 
