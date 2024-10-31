@@ -10,6 +10,7 @@
 
 ## Награды
 
+![image](https://github.com/user-attachments/assets/1c9a6de7-3a2e-443c-85ef-4a70e30ad278)
 
 
 ## Возможности
